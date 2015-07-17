@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/notes":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/notes","hostpath":"/Users/donhey/projects/notes","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/donhey/projects/notes","disabled":false}}}
